@@ -2,3 +2,7 @@
 * dockerizing
 * ecr 등록하기
 * k8s 
+
+--- advanced.
+* database 
+* decoupling with kafka.
