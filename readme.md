@@ -6,3 +6,5 @@
 --- advanced.
 * database 
 * decoupling with kafka.
+* ci/cd pipeline
+* monitoring
