@@ -8,3 +8,8 @@
 * decoupling with kafka.
 * ci/cd pipeline
 * monitoring
+
+
+--- testing
+
+* https://locust.io/
