@@ -13,3 +13,10 @@
 --- testing
 
 * https://locust.io/
+
+
+
+
+## 참고자료 ##
+
+* https://containers-immersionday.workshop.aws/eks/launch_eks/launcheks.html
