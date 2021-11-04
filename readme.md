@@ -20,3 +20,4 @@
 ## 참고자료 ##
 
 * https://containers-immersionday.workshop.aws/eks/launch_eks/launcheks.html
+* https://awskrug.github.io/eks-workshop/introduction/
