@@ -9,6 +9,7 @@
 * ci/cd pipeline
 * monitoring
 
+* 서비스 매시 - https://daddyprogrammer.org/post/13700/service-mesh/
 
 --- testing
 
